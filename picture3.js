@@ -1,5 +1,3 @@
-<script type='text/javascript'>
-/*<![CDATA[*/
 jQuery("abbr.timeago")["timeago"]();
 var globals = {
         sidebar: $("aside")["offset"]()["top"]
@@ -818,7 +816,3 @@ $(function () {
                         $(".f-cols")["addClass"]("no-vp")
                 }
         })
-        /*]]>*/
-
-</script>
-

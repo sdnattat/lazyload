@@ -191,6 +191,14 @@ to{-webkit-transform:rotate(0deg)}
 .Scroll-Title:before{content:"\f0a1";color:$(ticker.links.color);width:30px;text-align:center;display:inline-block;font-family:fontawesome;margin-top:-8px;font-size:20px;margin-left:10px;-webkit-transition:.3s ease-out;transition:.3s ease-out}
 .js-marquee-wrapper{direction:rtl}
 #HTML101,#HTML102{display:none}
+
+
+
+
+
+
+
+
 /* ===============
 * NewsTicker
 * =============== */
@@ -701,7 +709,7 @@ abbr.Today{display:block;font-family:BlogFont;text-align:center;font-size:31px;c
 span.Condition{display:block;text-align:center;color:$(weather.color);font-family:BlogFont;font-size:20px}
 span.Today-Temp{display:block;text-align:center;color:$(weather.color);font-family:Arial;font-size:24px;font-weight:bold;text-transform:capitalize}
 .icon{font-family:BlogFont;font-weight:normal;font-style:normal}
-.icon-0:before{content:"é"}.icon-1:before{content:"î"}.icon-2:before{content:"ð"}.icon-3:before{content:"ï"}.icon-4:before{content:"ð"}.icon-5:before{content:"ò"}.icon-6:before{content:"ò"}.icon-7:before{content:"ò"}.icon-8:before{content:"ò"}.icon-9:before{content:"ì"}.icon-10:before{content:"ò"}.icon-11:before{content:"ì"}.icon-12:before{content:"ì"}.icon-13:before{content:"ì"}.icon-14:before{content:"ì"}.icon-15:before{content:"ò"}.icon-16:before{content:"ì"}.icon-17:before{content:"ò"}.icon-18:before{content:"ñ"}.icon-19:before{content:"ó"}.icon-20:before{content:"ó"}.icon-21:before{content:"ó"}.icon-22:before{content:"ó"}.icon-23:before{content:"ó"}.icon-24:before{content:"ë"}.icon-25:before{content:"ë"}.icon-26:before{content:"ç"}.icon-27:before{content:"ô"}.icon-28:before{content:"ê"}.icon-29:before{content:"ô"}.icon-30:before{content:"ê"}.icon-31:before{content:"è"}.icon-32:before{content:"æ"}.icon-33:before{content:"è"}.icon-34:before{content:"æ"}.icon-35:before{content:"ò"}.icon-36:before{content:"æ"}.icon-37:before{content:"ð"}.icon-38:before{content:"ð"}.icon-39:before{content:"ð"}.icon-40:before{content:"í"}.icon-41:before{content:"ò"}.icon-42:before{content:"ì"}.icon-43:before{content:"ò"}.icon-44:before{content:"ô"}.icon-45:before{content:"ð"}.icon-46:before{content:"ñ"}.icon-47:before{content:"ð"}
+.icon-0:before{content:"é"}.icon-1:before{content:"î"}.icon-2:before{content:"?"}.icon-3:before{content:"ï"}.icon-4:before{content:"?"}.icon-5:before{content:"?"}.icon-6:before{content:"?"}.icon-7:before{content:"?"}.icon-8:before{content:"?"}.icon-9:before{content:"?"}.icon-10:before{content:"?"}.icon-11:before{content:"?"}.icon-12:before{content:"?"}.icon-13:before{content:"?"}.icon-14:before{content:"?"}.icon-15:before{content:"?"}.icon-16:before{content:"?"}.icon-17:before{content:"?"}.icon-18:before{content:"?"}.icon-19:before{content:"?"}.icon-20:before{content:"?"}.icon-21:before{content:"?"}.icon-22:before{content:"?"}.icon-23:before{content:"?"}.icon-24:before{content:"ë"}.icon-25:before{content:"ë"}.icon-26:before{content:"ç"}.icon-27:before{content:"ô"}.icon-28:before{content:"ê"}.icon-29:before{content:"ô"}.icon-30:before{content:"ê"}.icon-31:before{content:"è"}.icon-32:before{content:"?"}.icon-33:before{content:"è"}.icon-34:before{content:"?"}.icon-35:before{content:"?"}.icon-36:before{content:"?"}.icon-37:before{content:"?"}.icon-38:before{content:"?"}.icon-39:before{content:"?"}.icon-40:before{content:"?"}.icon-41:before{content:"?"}.icon-42:before{content:"?"}.icon-43:before{content:"?"}.icon-44:before{content:"ô"}.icon-45:before{content:"?"}.icon-46:before{content:"?"}.icon-47:before{content:"?"}
 /* ====================
 * Instagram Widget
 * ==================== */
